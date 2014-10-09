@@ -162,7 +162,7 @@ echo "export PATH=\"\$HOME/vendor/node/bin:\$HOME/bin:\$HOME/node_modules/.bin:\
   #else
     #echo "-----> No Gruntfile (grunt.js, Gruntfile.js, Gruntfile.coffee) found"
   #fi
-)
+#)
 
 # Post package.json to nomnom service
 # Use a subshell so failures won't break the build.
